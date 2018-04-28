@@ -1,0 +1,18 @@
+{
+  "name": "fission-nodejs-runtime",
+  "version": "0.0.1",
+  "author": "Sezer Dulger",
+  "contributors": [
+    {
+      "name": "Sezer Dulger",
+      "email": "sezerdulger@gmail.com"
+    }
+  ],
+  "description": "NodeJS run container for the fission framework",
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "dependencies": {
+    "express": "*"
+  }
+}
